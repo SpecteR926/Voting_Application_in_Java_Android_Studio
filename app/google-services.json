@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "891700829864",
+    "project_id": "votingapp-c23fa",
+    "firebase_url": "https://votingapp-c23fa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "votingapp-c23fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891700829864:android:1d5716a3c7703181906c9d",
+        "android_client_info": {
+          "package_name": "com.example.mad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1x-bqZt4CcibxoRb_a9SBzZCuH2s9il8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
